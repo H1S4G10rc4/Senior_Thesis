@@ -1,4 +1,4 @@
-# Grad_Thesis
+# Senior_Thesis
 
 修士論文のLaTeXプロジェクト
 
